@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 Please review the following [Introductory Slides](https://docs.google.com/presentation/d/10HijSCpsFbeNnHWOn3Ic54sZSle9hS8QUkrGYd_g7dQ/edit?usp=sharing){:target="_blank"} 
 
-
+https://www.youtube.com/watch?v=5NzVTKksG1U
 
 
 
