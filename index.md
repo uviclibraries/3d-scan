@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Why KIRI Engine? 
 
-[KIRI Engine](https://TOOL-URL-HERE.org/){:target="_blank"} is a free 3D scanning application for your phone that uses photoammetry or lidar to create high-resolution 3D models which you can export and use as digital assets. To access it, you can download it through the App store or the Google Play store. It is free to use as long as you make an account. 
+[KIRI Engine](https://www.kiriengine.app/){:target="_blank"} is a free 3D scanning application for your phone that uses photoammetry or lidar to create high-resolution 3D models which you can export and use as digital assets. To access it, you can download it through the App store or the Google Play store. It is free to use as long as you make an account. 
 
 
 ## Learning objectives
