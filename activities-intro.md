@@ -6,9 +6,11 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 
-Please review the following [Introductory Slides](https://docs.google.com/presentation/d/10HijSCpsFbeNnHWOn3Ic54sZSle9hS8QUkrGYd_g7dQ/edit?usp=sharing){:target="_blank"} 
+**Review the Introductory Slides**
+[Introductory Slides](https://docs.google.com/presentation/d/10HijSCpsFbeNnHWOn3Ic54sZSle9hS8QUkrGYd_g7dQ/edit?usp=sharing){:target="_blank"} 
 
-https://www.youtube.com/watch?v=5NzVTKksG1U
+**Watch pre-class Videos**<br>
+- [Intro to KIRI Engine and it's tools](https://www.youtube.com/watch?v=5NzVTKksG1U){:target="_blank"} (4 min) <br>
 
 
 
