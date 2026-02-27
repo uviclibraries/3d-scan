@@ -11,7 +11,7 @@ parent: Workshop Activities
 
 **Watch pre-class Videos**<br>
 - [Intro to KIRI Engine and it's tools](https://www.youtube.com/watch?v=5NzVTKksG1U){:target="_blank"} (4 min) <br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5NzVTKksG1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5NzVTKksG1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
