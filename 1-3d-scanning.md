@@ -34,4 +34,4 @@ parent: Workshop Activities
 Great job, now you have a 3D scan!
 
 
-[NEXT STEP: 3D Scanning Activity](informal-credentials.md){: .btn .btn-blue }
+[NEXT STEP: Get A Workshop Badge](informal-credentials.md){: .btn .btn-blue }
