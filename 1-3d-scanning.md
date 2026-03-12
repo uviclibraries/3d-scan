@@ -9,15 +9,15 @@ parent: Workshop Activities
 # 3D Scanning an Object
 
 1. To begin a new scanning project, click on the **+** button at the bottom of the screen. Then, choose *“Photo Scan”*, unless you have a phone equipped with LiDAR (like an iPhone Pro). Then select *“Take Photos / Video”* to proceed.
-<img src="images/PhotoScanOption.png" style="float:right;width:180px;" alt="Select the "Photo Scan" Option"> <img src="images/TakePhoto-Video.png" style="float:right;width:180px;" alt="Select Take Photo/Video option">
+<img src="images/PhotoScanOption.png" style="float:right;width:180px;"> <img src="images/TakePhoto-Video.png" style="float:right;width:180px;">
 
-2. Take the photos manually as you circle around your object 3 times at 3 different angles. You can also put the object on a piece of paper and rotate the object with each photo you take to get full coverage.
+3. Take the photos manually as you circle around your object 3 times at 3 different angles. You can also put the object on a piece of paper and rotate the object with each photo you take to get full coverage.
 
-3. Move slowly and take 25 or more photos for each of the 3 circlings of the object, each circling at a different angle. The more detailed your object is, the more photos you may require to complete a scan. Experiment. The bottom left of the screen shows your photo count and the ideal number of photos to take. The free version of the app allows for 150 images per scan. Try to get the top and bottom as well by taking photos from above or by turning the object over. *Note that the object will retain the lighting from the room you are in*.
+4. Move slowly and take 25 or more photos for each of the 3 circlings of the object, each circling at a different angle. The more detailed your object is, the more photos you may require to complete a scan. Experiment. The bottom left of the screen shows your photo count and the ideal number of photos to take. The free version of the app allows for 150 images per scan. Try to get the top and bottom as well by taking photos from above or by turning the object over. *Note that the object will retain the lighting from the room you are in*.
 
-4. Once you’re done, you can name the scan and choose settings for processing. At this point, you can also look through all your photos and delete any that might cause issues. These could include blurry images or uncentered images. 
+5. Once you’re done, you can name the scan and choose settings for processing. At this point, you can also look through all your photos and delete any that might cause issues. These could include blurry images or uncentered images. 
 
-<img src="images/AutoObjectMasking.png" style="float:right;width:180px;" alt="Select the "Turn on "Auto Object Masking" Option">
+<img src="images/AutoObjectMasking.png" style="float:right;width:180px;">
 
 5. On the settings screen, be sure to go through all of them and change accordingly. Turn on **“Auto Object Masking”** so the app removes background objects like the table surface.
 
@@ -25,7 +25,7 @@ parent: Workshop Activities
 
 7. For File Format, choose *.STL* (good for 3D printing) or *.OBJ* (will preserve colours for digital display as in example above). 
 
-<img src="images/NoAIorSharing.png" style="float:right;width:180px;" alt="Turn off AI Training and Visibility if wanted" Option">
+<img src="images/NoAIorSharing.png" style="float:right;width:180px;">
 
 8. There are options to Train AI with your model. If you are not interested, turn that off. There is also an option to make your model visible and available for others to use. Be sure to turn this off if you do not want other people to be able to view or use your model.
 
