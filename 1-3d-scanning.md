@@ -9,7 +9,7 @@ parent: Workshop Activities
 # 3D Scanning an Object
 
 1. To begin a new scanning project, click on the **+** button at the bottom of the screen. Then, choose *“Photo Scan”*, unless you have a phone equipped with LiDAR (like an iPhone Pro). Then select *“Take Photos / Video”* to proceed.
-<img src="images/PhotoScanOption.png" style="float:right;width:180px;"> <img src="images/TakePhoto-Video.png" style="float:right;width:180px;">
+<img src="images/PhotoScanOption.png" style="float:right;width:220px;"> <img src="images/TakePhoto-Video.png" style="float:right;width:220px;">
 
 3. Take the photos manually as you circle around your object 3 times at 3 different angles. You can also put the object on a piece of paper and rotate the object with each photo you take to get full coverage.
 
