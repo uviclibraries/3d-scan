@@ -4,7 +4,7 @@ title: 3D Scanning Activity
 nav_order: 2
 parent: Workshop Activities
 ---
-<img src="images/KiriEngineAppIcon.png" style="float:right;width:180px;" alt="KIRI Engine App Icon">
+<img src="images/KiriEngineAppIcon.png" style="float:right;width:100px;" alt="KIRI Engine App Icon">
 
 # 3D Scanning an Object
 
