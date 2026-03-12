@@ -17,7 +17,7 @@ parent: Workshop Activities
 
 5. Once you’re done, you can name the scan and choose settings for processing. At this point, you can also look through all your photos and delete any that might cause issues. These could include blurry images or uncentered images. 
 
-<img src="images/AutoObjectMasking.png" style="float:right;width:180px;">
+<img src="images/AutoObjectMasking.png" style="float:right;width:220px;">
 
 5. On the settings screen, be sure to go through all of them and change accordingly. Turn on **“Auto Object Masking”** so the app removes background objects like the table surface.
 
@@ -25,7 +25,7 @@ parent: Workshop Activities
 
 7. For File Format, choose *.STL* (good for 3D printing) or *.OBJ* (will preserve colours for digital display as in example above). 
 
-<img src="images/NoAIorSharing.png" style="float:right;width:180px;">
+<img src="images/NoAIorSharing.png" style="float:right;width:220px;">
 
 8. There are options to Train AI with your model. If you are not interested, turn that off. There is also an option to make your model visible and available for others to use. Be sure to turn this off if you do not want other people to be able to view or use your model.
 
