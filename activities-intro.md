@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-# Hands-On Activities Introduction
+# Hands-On Self-Directed Introduction
 
 **Review the Introductory Slides**
 [Introductory Slides](https://docs.google.com/presentation/d/10HijSCpsFbeNnHWOn3Ic54sZSle9hS8QUkrGYd_g7dQ/edit?usp=sharing){:target="_blank"} 
