@@ -3,7 +3,7 @@ layout: default
 title: Self-Directed Introduction
 nav_order: 3
 ---
-# Hands-On Self-Directed Introduction
+# Introduction for Self-Directed Learners
 
 **Review the Introductory Slides**
 [Introductory Slides](https://docs.google.com/presentation/d/10HijSCpsFbeNnHWOn3Ic54sZSle9hS8QUkrGYd_g7dQ/edit?usp=sharing){:target="_blank"} 
